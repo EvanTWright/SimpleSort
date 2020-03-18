@@ -6,4 +6,4 @@ Instructions to run:
 Once cloned locally, navigate to the file within the shell on MacOS, linux, or windows. 
 From here run "py sort.py" 
 
-The output in the sorted text file. 
+The output is the sorted text file. 
