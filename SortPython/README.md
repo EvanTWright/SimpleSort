@@ -1,5 +1,5 @@
 For this program to run you will need 2 things.
-1. Python 3 installed
+1. Python 3 installed(preferably the lastest version)
 2. Python to be present in your PATH. 
 
 Instructions to run:    
