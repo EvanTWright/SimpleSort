@@ -11,5 +11,6 @@ From here run "python print_sort.py"
 Once cloned locally from git, navigate to the directory SortPython within the shell on MacOS, linux, or windows. 
 From here run "python test_sort.py" 
 
+## Instructions to run sort and have returned sorted list but no output
 Running "python call_sort.py" will return the sorted list but not output anything to the terminal. 
 The output is the contents of the text file sorted. 
