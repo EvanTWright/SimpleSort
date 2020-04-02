@@ -1,2 +1,2 @@
 script:
-	- test_sort.py
+  - SortPython/test_sort.py
