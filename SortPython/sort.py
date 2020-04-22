@@ -9,7 +9,7 @@ def sort_text():
 
 	#sorts alphabetically then by length.
 	SortMe.sort()
-	SortMe.sort(key=le)
+	SortMe.sort(key=len)
 
 	#returns the list for testing purposes 
 	return SortMe;	
